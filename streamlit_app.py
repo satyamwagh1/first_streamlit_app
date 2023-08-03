@@ -3,6 +3,7 @@ import streamlit
 import pandas
 
 import requests
+import snowflake
 
 import snowflake.connector
 
