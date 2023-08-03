@@ -4,3 +4,4 @@ streamlit
 snowflake
 charset-normalizer==2.0.12
 snowflake-connector-python==2.7.9
+/home/adminuser/venv/bin/python -m pip install --upgrade pip
