@@ -2,3 +2,4 @@ snowflake-connector-python[pandas]
 cffi==1.15.0
 pyarrow<8.1.0,>=8.0.0
 streamlit >= 1.9.2
+-r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.9/tested_requirements/requirements_39.reqs
